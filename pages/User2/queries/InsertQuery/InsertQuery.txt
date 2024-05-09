@@ -1,0 +1,12 @@
+INSERT INTO user (
+	user_id,
+	user_id,
+	about,
+	email,
+	name)
+VALUES (
+	'{{insert_form.formData.user_id}}',
+	'{{insert_form.formData.user_id}}',
+	'{{insert_form.formData.about}}',
+	'{{insert_form.formData.email}}',
+	'{{insert_form.formData.name}}');
