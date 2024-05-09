@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "emailRegex",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Page1_emailRegex",
+  "deleted": false,
+  "gitSyncId": "663c7fd276858201977aba0e_150891d9-aa8e-489a-9c76-f2fba5be1ea5"
+}
