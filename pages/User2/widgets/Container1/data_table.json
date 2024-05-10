@@ -21,7 +21,7 @@
         {"key": "primaryColumns.email.computedValue"},
         {"key": "primaryColumns.name.computedValue"}
     ],
-    "leftColumn": 1,
+    "leftColumn": 20,
     "delimiter": ",",
     "defaultSelectedRowIndex": "0",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
