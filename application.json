@@ -17,6 +17,7 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "color": "#F1DEFF",
+  "icon": "product",
   "unpublishedAppLayout": {
     "type": "FLUID"
   },
